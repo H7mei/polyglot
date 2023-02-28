@@ -9,7 +9,7 @@
 - [hello world](/typescript/README.md)
 - [typescript v3](/typescript/typescript-v3/)
 
-# tentang Go
+# tentang Typescript
 
 nama : TypeScript<br/>
 sejak : 2012<br/>
