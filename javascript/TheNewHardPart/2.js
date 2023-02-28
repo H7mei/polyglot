@@ -1,0 +1,14 @@
+/* 
+javascrit is not have ablity to speak to the internet that is commad from the browser
+so we need to use the fetch api to do that
+
+fetch is facade function
+fetch is a function that takes one argument which is the url that we want to fetch
+and it returns a promise
+
+the promise that it returns is a promise that resolves to a response object 
+that response object has a bunch of different properties on it
+one of those properties is a body property
+the body property is a readable stream
+we can listen to that readable stream for data
+*/
