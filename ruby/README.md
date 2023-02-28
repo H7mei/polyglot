@@ -1,7 +1,7 @@
 # Ruby
 
 <div align="center" >
-  <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" />
+  <img src="https://user-images.githubusercontent.com/50648409/221882960-589dcf83-0284-4c48-ac9f-204510c320a0.png" />
 </div>
 
 ## isi
