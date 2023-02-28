@@ -1,5 +1,3 @@
-# Polyglot Programming
-
 this is journey, it's not a day trip
 
 ## Daftar isi
