@@ -1,18 +1,18 @@
 # C-Programming
 
 <div align="center" >
-  <img height="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png" />
+  <img height="230px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png" />
 </div>
     
 ## isi
 
-- [basic code 🔧](/basic/README.md)
-- [CLA Learning 🎓](/cla/README.md)
-- [Exercism Learning 💷](/exercism/README.md)
-- [Sorting Algoritm ⚙️](/sorting/README.md)
-- [Searhing Algoritm 🔍](/searching/README.md)
-- [Struktur Data 🔗](/struktur-data/README.md)
-- [Keyword 📖](/keyword/README.md)
+- [basic code 🔧](/c/basic/README.md)
+- [CLA Learning 🎓](/c/cla/README.md)
+- [Exercism Learning 💷](/c/exercism/README.md)
+- [Sorting Algoritm ⚙️](/c/sorting/README.md)
+- [Searhing Algoritm 🔍](/c/searching/README.md)
+- [Struktur Data 🔗](/c/struktur-data/README.md)
+- [Keyword 📖](/c/keyword/README.md)
 
 ## Tentang C
 
@@ -34,11 +34,3 @@ gcc <nama file> -o <path>
 ./<path>
 
 ```
-
-## Berkontribusi
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## Lisensi
-[MIT](/LICENSE)

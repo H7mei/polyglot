@@ -4,8 +4,8 @@
 
 ## isi
 
-- [First Step 📯](/first-step-postgres/README.md)
-- [Telkom Assignment ⛵](/telkom-mysql/README.md)
+- [First Step 📯](/sql/first-step-postgres/README.md)
+- [Telkom Assignment ⛵](/sql/telkom-mysql/README.md)
 
 ## Tentang SQL
 

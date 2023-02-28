@@ -1,24 +1,25 @@
-# Daftar Isi
+# Ruby
 
-1. Array (manual)
-2. Array (build-in)
-3. Linear and Binary search with TDD
-4. Tipe data Stack and queue with TDD 
-5. Sorting
-6. Two Sum With Array and hash
-7. Single Linked List
-8. Double Linked list
-9. Binary Search Tree
+<div align="center" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ruby-logo-notext.png" />
+</div>
 
-## install
+## isi
 
-bundle init
-bundle install
-bundle add jekyll
-bundle exec jekyll serve <= ini run server
+- [code](/ruby/basic/README.md)
 
-## Link
+# tentang ruby
 
-<https://github.com/qbl/insinyur-online-replit-lab/blob/main/fundamental-cs-series/episode-007/binary_search_tree.rb>
+nama : Ruby<br/>
+sejak : 1995<br/>
+dibuat oleh : [Yukihiro Matsumoto](https://en.wikipedia.org/wiki/Yukihiro_Matsumoto)<br/>
+paradigma pemrograman : [Multi-paradigm](https://en.wikipedia.org/wiki/Programming_paradigm#Multi-paradigm), [Functional](https://en.wikipedia.org/wiki/Functional_programming)<br/>
+situs web resmi : [ruby](https://www.ruby-lang.org/en/)<br/>
+learning : [youtube](https://www.youtube.com/watch?v=i5IP4eXBmDE&list=PL54Ypjb3VYvBeFkfVYemY3DMXzshvfgNv)
 
-<https://replit.com/@qblfrb/insinyur-online-replit-lab?v=1#fundamental-cs-series/episode-004/sort.rb>
+## run script
+
+```bash
+# run
+ruby <file>
+```

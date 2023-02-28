@@ -4,13 +4,13 @@
 
 ## isi
 
-- [basic code 🔧](/BAsic/README.md)
-- [DOM ☕](/DOm/README.md)
-- [Modern 🔩](/ModERn/README.md)
-- [DeepFoudation 📟](/deepFoundations/README.md)
-- [functional 📡](/functionalJs/README.md)
-- [Computer Science 🚒](/CS/README.md)
-- [The New Hard Part ⚡](/TheNewHardPart/README.md)
+- [basic code 🔧](/javascript/BAsic/README.md)
+- [DOM ☕](/javascript/DOm/README.md)
+- [Modern 🔩](/javascript/ModERn/README.md)
+- [DeepFoudation 📟](/javascript/deepFoundations/README.md)
+- [functional 📡](/javascript/functionalJs/README.md)
+- [Computer Science 🚒](/javascript/CS/README.md)
+- [The New Hard Part ⚡](/javascript/TheNewHardPart/README.md)
 
 ## Tentang JavaScript
 

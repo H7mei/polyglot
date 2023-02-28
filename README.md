@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/50648409/221862987-48e538b2-63d5-4a7c-a4e4-50947013ac00.png" alt="header">
 </div>
 
-
 # Polyglot
 
 this is journey, it's not a day trip

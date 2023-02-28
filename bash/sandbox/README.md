@@ -1,4 +1,4 @@
-# daftar isi
+# 📦 Daftar Isi
 
 1. [basic](./1.sh)
 2. [bash script](./2.sh)

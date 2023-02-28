@@ -1,6 +1,6 @@
-# Daftar Isi
+# 📦 Daftar Isi
 
-- Tipe Data
+1. [Tipe Data](./1.ts)
 
 ## About
 

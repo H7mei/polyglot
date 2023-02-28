@@ -6,7 +6,7 @@
 
 ## isi
 
-- [basic script](/sandbox/README.md)
+- [basic script](/bash/sandbox/README.md)
 
 # tentang bash
 
@@ -31,11 +31,3 @@ chmod +x file.sh
 ./file.sh
 
 ```
-
-## Berkontribusi
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## Lisensi
-[MIT](/LICENSE)
