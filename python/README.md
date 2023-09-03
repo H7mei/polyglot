@@ -7,8 +7,9 @@
 ## isi
 
 - [basic script](/python/basic/README.md)
+- [Algoritm](/python/algoritm/)
 
-# tentang python
+## tentang python
 
 nama : Python<br/>
 sejak : 1991<br/>

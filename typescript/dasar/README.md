@@ -1,6 +1,8 @@
 # 📦 Daftar Isi
 
-1. [Tipe Data](./1.ts)
+1. [Primitive DataType](./1.ts)
+2. [Time Complexity](./2.ts)
+3. [Arrays](./3.ts)
 
 ## About
 
