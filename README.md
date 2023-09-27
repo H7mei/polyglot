@@ -17,3 +17,4 @@ this is journey, it's not a day trip
 7. [c](c/README.md)
 8. [typescript](typescript/README.md)
 9. [go](go/README.md)
+10. [r](r/README.md)

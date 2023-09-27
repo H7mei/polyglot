@@ -16,13 +16,13 @@
 
 ## Tentang C
 
-nama : c<br/>
-sejak : 1972<br/>
-dibuat oleh : [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)<br/>
-tujuan pembuatan : Pemrograman komputer, sistem dan jaringan<br/>
-paradigma pemrograman : [Imperatif](https://id.wikipedia.org/wiki/Pemrograman_imperatif)<br/>
-situs web resmi : [ISO C Working Group](http://www.open-std.org/jtc1/sc22/wg14/)<br/>
-learning : [exercism.org](https://exercism.org/tracks/c)
+nam : c<br/>
+sejak: 1972<br/>
+dibuat oleh: [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)<br/>
+tujuan pembuatan: Pemrograman komputer, sistem dan jaringan<br/>
+paradigma pemrograman: [Imperatif](https://id.wikipedia.org/wiki/Pemrograman_imperatif)<br/>
+situs web resmi: [ISO C Working Group](http://www.open-std.org/jtc1/sc22/wg14/)<br/>
+learning: [exercism.org](https://exercism.org/tracks/c)
 
 ## C compile
 
