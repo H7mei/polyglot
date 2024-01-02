@@ -11,10 +11,12 @@
 - [functional 📡](/javascript/functionalJs/README.md)
 - [Computer Science 🚒](/javascript/CS/README.md)
 - [The New Hard Part ⚡](/javascript/TheNewHardPart/README.md)
+- [Browser Data Storage 🏬](/javascript/BrowserDataStorage/README.md)
+- [Web Development Quiz 🎇](/javascript/webDevelopmentQuiz/README.md)
 
 ## Tentang JavaScript
 
-nama : JavaScript<br/> 
+nama : JavaScript<br/>
 sejak : 1995<br/>
 dibuat oleh : [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)<br/>
 tujuan pembuatan : pada awalnya hanya digunakan di browser web, tetapi sekarang menjadi komponen inti dari beberapa server dan berbagai aplikasi<br/>
